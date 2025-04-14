@@ -1,1 +1,1 @@
-# Deep-Learning-Notes
+# Technical-Learning-Notes
